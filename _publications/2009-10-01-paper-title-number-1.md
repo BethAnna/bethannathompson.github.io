@@ -1,5 +1,5 @@
 ---
-title: "Synthesizing network dynamics for short-term memory of impulsive inputs"
+title: 'Synthesizing network dynamics for short-term memory of impulsive inputs'
 collection: publications
 category: manuscripts
 permalink: [doi:10.1162/neco_a_01655](https://direct.mit.edu/neco/article/36/5/1022/120321/Heterogeneous-Forgetting-Rates-and-Greedy)
